@@ -1,1 +1,2 @@
-"My Git Learning notes" 
+"Git Notes" 
+"Git is like a time machine which stores codes every time a pogrammer makes a snapshot. It is useful in programming projects because of it's ability to maintain the original project data while allowing more than one programmer add or ammend codes remotely update the original project after the additions/ommissions are checked and found useful. Git saves time, space and allows mutliple inputs from many programmers into one project. It allows working together from anywhere in the world" 
